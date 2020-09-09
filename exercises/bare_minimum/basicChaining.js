@@ -10,7 +10,7 @@
 
 var fs = require('fs');
 var Promise = require('bluebird');
-var promiseConstructorFunctions = require('./promiseConstructor.js')l
+var promiseConstructorFunctions = require('./promiseConstructor.js');
 
 
 
